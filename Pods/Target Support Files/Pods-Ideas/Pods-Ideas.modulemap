@@ -1,0 +1,6 @@
+framework module Pods_Ideas {
+  umbrella header "Pods-Ideas-umbrella.h"
+
+  export *
+  module * { export * }
+}
